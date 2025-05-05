@@ -12,13 +12,14 @@ This project is a deep learning-powered web application for classifying Fusarium
 
 🚀 Features
 
-🔍 Upload an eye image and receive real-time prediction
+ Upload an eye image and receive real-time prediction
 
-📊 Displays predicted class and confidence score
+ Displays predicted class and confidence score
 
-🧠 Powered by a trained Keras CNN model
+ Powered by a trained Keras CNN model
 
-🖼️ Supports .jpg, .jpeg, and .png formats
+ Supports .jpg, .jpeg, and .png formats
+
 
 📦 Requirements
 
